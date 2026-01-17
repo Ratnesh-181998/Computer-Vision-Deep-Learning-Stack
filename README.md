@@ -90,13 +90,21 @@ We utilize a modern, industry-standard stack ensuring your skills are directly t
     *   **Classic:** LeNet-5, AlexNet, VGG-16.
     *   **Modern:** ResNet (Skip Connections), Inception (Performance), MobileNet (Efficiency).
       
+#### 🔹 Modules 2     
 <img width="1211" height="1111" alt="image" src="https://github.com/user-attachments/assets/2f19b283-4b28-4d47-aa2a-ccc6f5a6668c" />
 
+#### 🔹 Modules 3
+<img width="924" height="1273" alt="image" src="https://github.com/user-attachments/assets/749cdd84-8f8d-4fac-a4f3-a177f7da7b22" />
+<img width="532" height="424" alt="image" src="https://github.com/user-attachments/assets/478bbb05-f80b-4752-a2b1-734816dbfab0" />
+
+#### 🔹 Modules 4
+<img width="869" height="656" alt="image" src="https://github.com/user-attachments/assets/e7bdb840-cbf2-42c5-8e6c-c91c11509073" />
 
 ### 🔹 Module 5 – Vision Transformers (ViT)
 > *Solving vision tasks with NLP-inspired attention mechanisms.*
 *   **Core:** Self-Attention, Multi-Head Attention, Patch Embeddings, Positional Encoding.
 *   **Models:** ViT (Vision Transformer), Swin Transformer, Hybrid CNN-Transformers.
+<img width="878" height="876" alt="image" src="https://github.com/user-attachments/assets/90ef7948-b9a2-4dcb-90f4-166d614ef590" />
 
 ### 🔹 Module 6 – Object Detection (YOLO, RCNN)
 > *Locating and classifying objects in real-time.*
@@ -104,18 +112,24 @@ We utilize a modern, industry-standard stack ensuring your skills are directly t
 *   **Single-Stage:** SSD, RetinaNet, and the **YOLO Family** (v5, v8, v11).
 *   **Optimization:** Anchor Boxes, IoU (Intersection over Union), NMS (Non-Max Suppression).
 *   **Project:** *End-to-End Pedestrian Detection System.*
+  
+<img width="918" height="1023" alt="image" src="https://github.com/user-attachments/assets/c46059cb-4201-43fd-a3a7-76a1d4be6b73" />
+<img width="867" height="133" alt="image" src="https://github.com/user-attachments/assets/ecc0bff3-aec1-4712-a438-11bd4d9d40f8" />
 
 ### 🔹 Module 7 – Image Segmentation
 > *Pixel-level classification for medical and autonomous applications.*
 *   **Semantic:** Classifying every pixel (UNet, DeepLabV3+).
 *   **Instance:** Distinguishing separate objects of the same class (Mask R-CNN).
 *   **Evaluation:** Dice Coefficient, Jaccard Index (IoU).
+<img width="875" height="992" alt="image" src="https://github.com/user-attachments/assets/c92c4065-fad0-4fcc-b388-30a29616ab8c" />
 
 ### 🔹 Module 8 – Object Tracking Systems
 > *Maintaining identity across video frames.*
 *   **Approaches:** Centroid Tracking, Kalman Filtering.
 *   **Advanced:** SORT (Simple Online Realtime Tracking), DeepSORT (Visual Features + Motion).
 *   **Project:** *Vehicle Traffic Counting & Speed Estimation.*
+<img width="855" height="666" alt="image" src="https://github.com/user-attachments/assets/4138f445-94d5-4e28-b852-99217e61a29f" />
+
 
 ### 🔹 Module 9 – Generative AI for Vision
 > *Creating and manipulating visual content with AI.*
@@ -123,6 +137,7 @@ We utilize a modern, industry-standard stack ensuring your skills are directly t
     *   **Diffusion:** Stable Diffusion (Text-to-Image), ControlNet.
     *   **Foundation:** CLIP (Contrastive Language-Image Pretraining), SAM (Segment Anything Model).
     *   **GANs:** CycleGAN (Style Transfer), Pix2Pix.
+<img width="909" height="933" alt="image" src="https://github.com/user-attachments/assets/30f8f821-eceb-4f03-9b59-7b901cf9b0d4" />
 
 ---
 
