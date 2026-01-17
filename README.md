@@ -19,9 +19,9 @@
 
 ## 📖 Table of Contents
 - [📌 Overview](#-overview)
-- [🎯 Learning Objectives](#-learning-objectives)
+- [🎯 Objectives](#-objectives)
 - [🔧 Technology Stack](#-technology-stack)
-- [📚 Curriculum Roadmap](#-curriculum-roadmap)
+- [📚 Roadmap](#-roadmap)
   - [Module 1: Foundations](#-module-1--foundations-of-image-processing)
   - [Module 2-4: Deep Learning & CNNs](#-modules-2-4--deep-learning--advanced-cnns)
   - [Module 5: Transformers (ViT)](#-module-5--vision-transformers-vit)
@@ -43,7 +43,7 @@ Whether you are aiming to build autonomous systems, medical imaging diagnostics,
 
 ---
 
-## 🎯 Learning Objectives
+## 🎯 Objectives
 
 By identifying and implementing these modules, you will evolve from a novice to an **Computer Vision Engineer**:
 
@@ -72,7 +72,7 @@ We utilize a modern, industry-standard stack ensuring your skills are directly t
 
 ---
 
-## 📚 Curriculum Roadmap
+## 📚 Roadmap
 
 ### 🔹 Module 1 – Foundations of Image Processing
 > *The bedrock of all vision tasks. Understanding how machines "see" data.*
