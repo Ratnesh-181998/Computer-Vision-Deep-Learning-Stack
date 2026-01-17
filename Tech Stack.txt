@@ -1,0 +1,74 @@
+Tech Stack 
+
+🔹 Core Computer Vision
+computer-vision
+image-processing
+opencv
+vision-ai
+image-classification
+🔹 Deep Learning
+deep-learning
+neural-networks
+cnn
+convolutional-neural-networks
+pytorch
+🔹 Object Detection
+object-detection
+yolo
+yolov5
+yolov8
+faster-rcnn
+mask-rcnn
+🔹 Segmentation
+image-segmentation
+semantic-segmentation
+instance-segmentation
+unet
+deeplab
+🔹 Object Tracking
+object-tracking
+sort
+deepsort
+bytetrack
+kalman-filter
+🔹 Transformers & Attention
+vision-transformer
+transformers
+attention-mechanism
+vit
+🔹 Generative AI (Vision)
+generative-ai
+diffusion-models
+stable-diffusion
+clip
+segment-anything
+sam
+🔹 Engineering / MLOps Ready
+machine-learning
+ai-engineering
+ml-pipelines
+model-training
+model-evaluation
+real-time-systems
+
+
+________________________________________
+🛠️ Tech Stack
+🔹 Core Computer Vision
+computer-vision · image-processing · opencv · vision-ai · image-classification , OCR
+🔹 Deep Learning
+deep-learning · neural-networks · cnn · pytorch
+🔹 Object Detection
+object-detection · yolo · faster-rcnn · mask-rcnn
+🔹 Segmentation
+image-segmentation · semantic-segmentation · instance-segmentation · unet · deeplab
+🔹 Object Tracking
+object-tracking · sort · deepsort · bytetrack · kalman-filter
+🔹 Transformers & Attention
+vision-transformer · transformers · attention-mechanism · vit
+🔹 Generative AI (Vision)
+generative-ai · diffusion-models · stable-diffusion · clip · sam
+🔹 Engineering / MLOps
+machine-learning · ai-engineering · ml-pipelines · real-time-systems
+
+________________________________________
