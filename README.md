@@ -188,12 +188,12 @@ Build a portfolio that stands out. These suggested projects combine multiple mod
 
 ### 📕 PDF Guides
 *   **Course Textbooks:**
-*   [Deep Learning- Computer Vision Modules](Deep Learning- Computer Vision Modules.pdf) 
+*   [Deep Learning- Computer Vision Modules](https://github.com/Ratnesh-181998/Computer-Vision-Deep-Learning-Stack/blob/main/Deep%20Learning-%20Computer%20Vision%20Modules.pdf) 
 
   
 ---
 
-# [Deep Learning- Computer Vision Modules](Deep Learning- Computer Vision Modules.pdf) 
+# [Deep Learning- Computer Vision Modules](https://github.com/Ratnesh-181998/Computer-Vision-Deep-Learning-Stack/blob/main/Deep%20Learning-%20Computer%20Vision%20Modules.pdff) 
 
 <img width="940" height="972" alt="image" src="https://github.com/user-attachments/assets/4f46141a-c123-40fa-a92f-fb4654e975ba" />
 <img width="940" height="1008" alt="image" src="https://github.com/user-attachments/assets/d31ac3b1-1494-46a4-ab69-2092a155302d" />
