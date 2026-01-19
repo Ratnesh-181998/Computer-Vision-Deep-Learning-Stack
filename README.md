@@ -188,12 +188,12 @@ Build a portfolio that stands out. These suggested projects combine multiple mod
 
 ### 📕 PDF Guides
 *   **Course Textbooks:**
-*   [V1 PDF Guide](Agentic%20AI%20&Gen%20AI%20with%20Cloud-V1.pdf) 
-*   [V2 PDF Guide](Agentic%20AI%20&%20Gen%20AI%20with%20Cloud_V2.pdf)
+*   [Deep Learning- Computer Vision Modules](Deep Learning- Computer Vision Modules.pdf) 
+
   
 ---
 
-# [V1 PDF Guide](Agentic%20AI%20&Gen%20AI%20with%20Cloud-V1.pdf) 
+# [Deep Learning- Computer Vision Modules](Deep Learning- Computer Vision Modules.pdf) 
 
 <img width="940" height="972" alt="image" src="https://github.com/user-attachments/assets/4f46141a-c123-40fa-a92f-fb4654e975ba" />
 <img width="940" height="1008" alt="image" src="https://github.com/user-attachments/assets/d31ac3b1-1494-46a4-ab69-2092a155302d" />
