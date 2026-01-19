@@ -183,6 +183,30 @@ Build a portfolio that stands out. These suggested projects combine multiple mod
 4.  **Generative Art Studio**
     *   *Stack:* Stable Diffusion API + Gradio.
     *   *Goal:* A web UI for generating and refining assets for game dev.
+      
+---
+
+### 📕 PDF Guides
+*   **Course Textbooks:**
+*   [V1 PDF Guide](Agentic%20AI%20&Gen%20AI%20with%20Cloud-V1.pdf) 
+*   [V2 PDF Guide](Agentic%20AI%20&%20Gen%20AI%20with%20Cloud_V2.pdf)
+  
+---
+
+# [V1 PDF Guide](Agentic%20AI%20&Gen%20AI%20with%20Cloud-V1.pdf) 
+
+<img width="940" height="972" alt="image" src="https://github.com/user-attachments/assets/4f46141a-c123-40fa-a92f-fb4654e975ba" />
+<img width="940" height="1008" alt="image" src="https://github.com/user-attachments/assets/d31ac3b1-1494-46a4-ab69-2092a155302d" />
+<img width="940" height="1070" alt="image" src="https://github.com/user-attachments/assets/13b502f7-b952-4f3b-996e-e392ebd55670" />
+<img width="940" height="646" alt="image" src="https://github.com/user-attachments/assets/491c2b65-34cf-4280-91db-1c422bda71a1" />
+<img width="940" height="871" alt="image" src="https://github.com/user-attachments/assets/e2a108ce-8bee-4ad8-9ae0-c46ccfbd83c0" />
+<img width="940" height="1020" alt="image" src="https://github.com/user-attachments/assets/309a57cb-1352-44cc-ac97-000c8c67f4c0" />
+<img width="940" height="1151" alt="image" src="https://github.com/user-attachments/assets/f052b35c-ddfd-4b2a-ba89-ef4cca70f13a" />
+<img width="940" height="547" alt="image" src="https://github.com/user-attachments/assets/c329ec94-b884-445d-86d7-c2b145485dcf" />
+<img width="940" height="1085" alt="image" src="https://github.com/user-attachments/assets/83e2bc0e-d246-4a39-9b4e-9f7c7e3fa04a" />
+<img width="940" height="1004" alt="image" src="https://github.com/user-attachments/assets/6d0f1410-b6bd-47ff-ba46-b8bbae568d72" />
+<img width="940" height="1010" alt="image" src="https://github.com/user-attachments/assets/d67b46e4-a07e-4806-add7-d3ecc01ccc5c" />
+
 
 ---
 
